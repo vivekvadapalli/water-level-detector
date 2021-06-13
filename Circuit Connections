@@ -1,0 +1,8 @@
+connect the circuit like this
+
+
+// Arduino (5v)       to  Water Sensor (+).
+// Arduino (Gnd)      to  Water Sensor (-).
+// Arduino Pin (A0)   to  Water Sensor (s).
+// Arduino Pin (8)    to  Buzzer       (+).
+// Arduino (Gnd)      to  Buzzer       (-).
