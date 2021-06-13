@@ -8,3 +8,9 @@ Connecting a water sensor to an Arduino is a great way to detect a leak, spill, 
 
 
 
+Connections:-
+// Arduino (5v)    to   Water Sensor(+).
+// Arduino (Gnd)   to   Water Sensor(-).
+// Arduino (A0)    to   Water Sensor(s).
+// Arduino Pin (8) to   Buzzer(+).
+// Arduino (Gnd)   to   Buzzer(-).
