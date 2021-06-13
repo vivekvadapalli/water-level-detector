@@ -6,9 +6,9 @@ Water level detector is designed for water detection, which can be widely used i
 Connecting a water sensor to an Arduino is a great way to detect a leak, spill, flood, rain, etc. It can be used to detect the presence, the level, the volume and/or the absence of water. While this could be used to remind you to water your plants, there is a better Grove sensor for that. The sensor has an array of exposed traces, which read LOW when water is detected.
 
 
-Components Required:-
+## Components Required:-
 
-1) Arduino:-
+# 1) Arduino
 
 
 
@@ -20,7 +20,7 @@ Arduino is an open-source platform used for building electronics projects. Ardui
 
 The Arduino platform has become quite popular with people just starting out with electronics, and for good reason. Unlike most previous programmable circuit boards, the Arduino does not need a separate piece of hardware (called a programmer) in order to load new code onto the board -- you can simply use a USB cable. Additionally, the Arduino IDE uses a simplified version of C++, making it easier to learn to program. Finally, Arduino provides a standard form factor that breaks out the functions of the micro-controller into a more accessible package.
 
-2)Water sensor:-
+# 2)Water sensor
 
 ![Water-Level-Sensor-Pinout](https://user-images.githubusercontent.com/84668145/121806388-80563180-cc04-11eb-905c-acf4b0a539e4.png)
 
@@ -33,3 +33,9 @@ With this Water Level Sensor, you can do just that!
 This sensor can be used to measure the water level, monitor a sump pit, detect rainfall or detect leakage.
 
 ![Water-Level-Sensor-Working](https://user-images.githubusercontent.com/84668145/121806588-50f3f480-cc05-11eb-93f0-6d82d3e95b67.gif)
+
+# 3)Buzzer
+
+![Buzzer-Pinout](https://user-images.githubusercontent.com/84668145/121806725-eb543800-cc05-11eb-827a-991a44c9520c.png)
+
+A buzzer or beeper is an audio signalling device,[1] which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
