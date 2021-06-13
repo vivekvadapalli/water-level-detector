@@ -1,5 +1,6 @@
-connect the circuit like this
+Connect the circuit like this.
 
+Connections are connect with Jumper wires......
 
 // Arduino (5v)       to  Water Sensor (+).
 // Arduino (Gnd)      to  Water Sensor (-).
